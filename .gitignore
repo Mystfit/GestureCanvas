@@ -1,0 +1,17 @@
+.DS_Store
+*.swp
+*.Trashes
+*.pyc
+
+Library
+*.suo
+*.vs
+Temp
+obj
+build
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+
+*.userprefs
